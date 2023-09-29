@@ -7,7 +7,7 @@ Data Analyst Portfolio
 2.	**Exploratory Data Analysis:** Conducted comprehensive EDA to understand the dataset. Key steps included:
 
 •	Summary Statistics: Computed summary statistics for numerical columns to grasp the data's overall characteristics.
-![alt text](Summary_stat.png)
+![alt text](Summary_Stat.png)
 •	Data Preprocessing: Divided the coordinates column into longitude and latitude components for better analysis. Addressed missing values in the "NUMBER OF DEAD" column by replacing them with zeros to ensure clean visualization.
 
 3.	**Data Visualization:** Employed various visualization techniques to gain insights:
