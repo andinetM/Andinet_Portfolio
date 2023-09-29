@@ -15,5 +15,5 @@ Data Analyst Portfolio
 
 4.	**Geospatial Visualization:** Enhanced understanding by plotting data points on a world map. This visualization method highlighted locations with significant numbers of deceased and missing migrants for improved spatial insights.
 By combining these techniques, this project provides a comprehensive analysis of Global Missing Migrants' data, offering valuable insights into trends, patterns, and spatial distributions.
-Regenerate
+
 
