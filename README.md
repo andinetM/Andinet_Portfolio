@@ -1,7 +1,5 @@
-# Andinet_Portfolio
-Data Analyst Portfolio
 
-# Project Global Missing Migrants:
+# Global Missing Migrants:
 1.	**Data Collection:** Acquired a dataset from Kaggle.com containing information on Global Missing Migrants.
 <img src="Migrants_Basic_Info.png" alt="alt text" width="50%" height="50%">
 3.	**Exploratory Data Analysis:** Conducted comprehensive EDA to understand the dataset. Key steps included:
