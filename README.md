@@ -26,12 +26,12 @@ Exploration of the timing of migrations indicated notable peaks in incidents dur
 ### Causes of Death:
 The leading causes of death were drowning, followed by a mix of unknown factors, vehicle accidents, violence, and harsh environmental conditions. This stark hierarchy of causes highlights the perilous conditions migrants face on their journeys.
 
- <img src="Plots/Death_by_Cause_Rplot.png" alt="alt text" width="60%" height="50%">
+ <img src="Plots/Death_by_Cause_Rplot.png" alt="alt text" width="70%" height="50%">
  
 #### Focus on Missing Children:
 A dedicated analysis of missing children revealed a total of 3,079 cases, with the Mediterranean, Southern Asia, and North Africa being the regions most affected. This demographic analysis underscores the heightened vulnerability of children in these migration crises.
 
-<img src="Plots/TotalMissingChildren_ByRegion_Rplot.png" alt="alt text" width="60%" height="50%">
+<img src="Plots/TotalMissingChildren_ByRegion_Rplot.png" alt="alt text" width="70%" height="50%">
 
 #### Geospatial Analysis:
 A geospatial mapping of incidents where at least 10 children were recorded missing offered a vivid illustration of the geographic spread of these tragedies, pinpointing specific areas of high risk.
